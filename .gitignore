@@ -1,1 +1,8 @@
+# Claude Code local config
 .claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
